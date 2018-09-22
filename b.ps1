@@ -1,1 +1,1 @@
-ls
+[System.Windows.MessageBox]::Show('Hello')

@@ -12,4 +12,4 @@ function screenshot([Drawing.Rectangle]$bounds, $path) {
 }
 
 $bounds = [Drawing.Rectangle]::FromLTRB(0, 0, 1500, 1000)
-screenshot $bounds "C:\Users\Ankit\Desktop\New folder\screenshot.png"
+screenshot $bounds "C:\Users\Ankit\Desktop\screenshot.png"
